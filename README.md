@@ -8,4 +8,4 @@
 
 || (OR)
 
-write vscode.dev/ before https in url, press enter and try it inside a github codespaces
+write 'vscode.dev/' before https in the url, press enter and try the above steps from 2.-5. inside a github codespaces
